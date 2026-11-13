@@ -35,6 +35,8 @@ We nemen als voorbeeld twee fietsers, waarbij de fietser 1 een eenparige bewegin
 import numpy as np
 import matplotlib.pyplot as plt
 
+#aanpassing
+
 # Beginwaarden
 dt = 0.25                  #s
 t_e = 10                   #s
